@@ -14,6 +14,8 @@ Support for multiple hand gestures
 User-friendly interface for easy integration with devices or applications
 Technical Details
 
+The Dataset used is https://www.kaggle.com/gti-upm/leapgestrecog
+
 The model uses a deep learning architecture, specifically a convolutional neural network (CNN), to recognize hand gestures.
 The model is trained on a dataset of images or videos of hand gestures, with each gesture labeled and categorized.
 The model can be integrated with various devices or applications, such as webcams, smartphones, or gaming consoles.
